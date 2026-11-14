@@ -18,7 +18,7 @@ global.defaultLenguaje = 'es';
 global.owner = [
   ['54926041957', '🫏 𝐏ropietario ', true],
 
-global.suittag = ['5219993404349'];
+global.suittag = ['542604041957'];
 global.prems = [];
 
 // Base Rest Api
@@ -26,10 +26,10 @@ global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
 global.author = 'BrunoSobrino';
-global.wm = 'The Mystic - Bot';
-global.titulowm = 'Mystic Bot';
-global.titulowm2 = `Mystic Bot`
-global.igfg = 'The Mystic';
+global.wm = '𝐍agi 𝐒eishiro  — 𝐁ot';
+global.titulowm = 'Nagi bot';
+global.titulowm2 = `Nagi bot`
+global.igfg = 'The Nagi';
 global.wait = '*_( ⌚ ) 𝐖ait..._*';
 
 global.imagen1 = fs.readFileSync('./src/assets/images/menu/languages/es/menu.png');
